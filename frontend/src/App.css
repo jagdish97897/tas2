@@ -1,0 +1,93 @@
+.loginPage {
+  background: url('D:\project work\task-2\frontend\public\Images\task2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.loginForm {
+  /* background-color: rgba(184, 191, 198, 0.6); */
+  color: rgb(87, 59, 246);
+}
+
+.employee_image {
+
+
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.empImg {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.custom1-bg {
+  background-color: #e7330bc3;
+  height: 580px;
+}
+
+.custom2-bg {
+  background-color: #4fe751ca;
+
+}
+
+.custom3-bg {
+  background-color: #0bf40fca;
+
+}
+.custom5-bg {
+  background-color: #e40bf4ca;
+
+}
+
+
+
+
+.custom4-bg {
+  background-color: #197dbcc3;
+  height: 620px;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(192, 18, 18);
+}
+
+.App-link {
+  color: #fbd461;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
